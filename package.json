@@ -26,7 +26,7 @@
     "ts-jest": "^24.1.0"
   },
   "dependencies": {
-    "husky": "^3.0.9",
+    "husky": "^4.0.0-beta.5",
     "tslint": "^5.20.1",
     "typescript": "^3.7.2"
   }
