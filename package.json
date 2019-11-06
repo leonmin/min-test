@@ -11,8 +11,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm test && npm lint",
-      "commit-msg": ">>>"
+      "pre-commit": "npm run test"
     }
   },
   "files": [
