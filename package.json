@@ -10,7 +10,9 @@
     "lint": "tslint -p tsconfig.json"
   },
   "husky": {
-    "pre-commit": "npm test && npm lint"
+    "hooks": {
+      "pre-commit": "npm test && npm lint"
+    }
   },
   "files": [
     "lib"
