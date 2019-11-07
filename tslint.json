@@ -7,7 +7,9 @@
     "rules": {
         "quotemark": [
             true, "single"
-        ]
+        ],
+        "object-literal-sort-keys": false,
+        "arrow-parens": true
     },
     "rulesDirectory": []
 }
